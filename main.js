@@ -8,6 +8,7 @@ console.log('karena aku menganggap bahwa orang yang menyuruh ku adalah orang ora
 console.log('orang orang nyebelin adalah hal biasa')
 console.log('yang pentingmah semangat aja bekerja')
 console.log('karena orang orang itu seperti itu bro')
+console.log('atasan memang kadang sedikit menyebalkan')
 
 function test(){
     var nilaitinggi=100;    //var a1 = document.getElementById('angka1').value;
