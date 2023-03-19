@@ -24,6 +24,7 @@ console.log('aku sekarang begitu pusing')
 
 console.log('aku juga mau bikin sebuah project gudang menggunakan javascript')
 console.log('jadi konsep gudang ini memiliki 2 pengguna atau dua hak akses')
+console.log('pengguna yang pertama adalah admin')
 
 
 function test(){
