@@ -2,7 +2,7 @@
 
 //console.log('aku sedang belajar node js')
 
-
+console.log('Aku Mau Mrah ')
 
 function test(){
     var nilaitinggi=100;    //var a1 = document.getElementById('angka1').value;
