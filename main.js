@@ -33,18 +33,18 @@ console.log('Pertama ada web yang di peruntuhkan untuk admin')
 console.log('setelah magrib balik lagi ke kerjaan')
 
 
-function test(){
-    var nilaitinggi=100;    //var a1 = document.getElementById('angka1').value;
-   var nilai = document.getElementById('nilai').value;
-    if(nilaitinggi<70)
-    {
-        alert("nilai anda B");
-    }
-    else (nilaitinggi>=70&&nilaitinggi<100)
-    {
-        alert("nilai anda A");
-    }
+// function test(){
+//     var nilaitinggi=100;    //var a1 = document.getElementById('angka1').value;
+//    var nilai = document.getElementById('nilai').value;
+//     if(nilaitinggi<70)
+//     {
+//         alert("nilai anda B");
+//     }
+//     else (nilaitinggi>=70&&nilaitinggi<100)
+//     {
+//         alert("nilai anda A");
+//     }
    
     
     
-}
+// }
