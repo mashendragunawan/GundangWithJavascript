@@ -5,6 +5,7 @@
 console.log('Aku Mau Mrah ')
 console.log('tapi aku harus bisa menahan emosi')
 console.log('karena aku menganggap bahwa orang yang menyuruh ku adalah orang orang yang menyuruh mengerjakan sesuatu pada ku adalah orang goblok')
+console.log('orang orang nyebelin adalah hal biasa')
 
 function test(){
     var nilaitinggi=100;    //var a1 = document.getElementById('angka1').value;
