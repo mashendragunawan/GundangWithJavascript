@@ -11,6 +11,7 @@ console.log('karena orang orang itu seperti itu bro')
 console.log('atasan memang kadang sedikit menyebalkan')
 console.log('kerja udah cape eh ada revisi pas di tanya revisinya apa jawaban nya cuma revisi aja')
 console.log('apakah aku salah jika aku menolak panggilan di saat aku libur')
+console.log('coba kamu bayangkan bagai mana rasanya kerja di saat libur namun ini tidak mendapatkan bayaran')
 
 function test(){
     var nilaitinggi=100;    //var a1 = document.getElementById('angka1').value;
