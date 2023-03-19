@@ -19,6 +19,7 @@ console.log('mau pindah ke pabrikan tapi fisik ku tidak memungkinkan')
 console.log('mau keluar dari sini tapi aku banyak hutang')
 console.log('dan aku juga banyak sekali tanggungan')
 console.log('coba kamu sekarang bayangin aja aku cape kerja namun aku tidak bisa untuk menabung')
+console.log('dan aku juga harus berusa bayarin hutang ku ke si masitoh yang lebih dari 20 jt')
 
 function test(){
     var nilaitinggi=100;    //var a1 = document.getElementById('angka1').value;
