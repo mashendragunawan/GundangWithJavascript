@@ -27,6 +27,7 @@ console.log('jadi konsep gudang ini memiliki 2 pengguna atau dua hak akses')
 console.log('pengguna yang pertama adalah admin')
 console.log('admin ini memiliki full akses untuk semua fitur yang di buat')
 console.log('sedangkan pengguna kedua adalah client atau bagian')
+console.log('bagian ini haya bisa pesan barang, Lihat Stok dan retun atau pengembalian barang')
 
 
 function test(){
