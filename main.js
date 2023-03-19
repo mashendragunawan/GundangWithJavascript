@@ -3,6 +3,7 @@
 //console.log('aku sedang belajar node js')
 
 console.log('Aku Mau Mrah ')
+console.log('tapi aku harus bisa menahan emosi')
 
 function test(){
     var nilaitinggi=100;    //var a1 = document.getElementById('angka1').value;
