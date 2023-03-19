@@ -29,6 +29,8 @@ console.log('admin ini memiliki full akses untuk semua fitur yang di buat')
 console.log('sedangkan pengguna kedua adalah client atau bagian')
 console.log('bagian ini haya bisa pesan barang, Lihat Stok dan retun atau pengembalian barang')
 console.log('sistem juga ada dua jenis')
+console.log('Pertama ada web yang di peruntuhkan untuk admin')
+console.log('setelah magrib balik lagi ke kerjaan')
 
 
 function test(){
