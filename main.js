@@ -23,6 +23,8 @@ console.log('dan aku juga harus berusa bayarin hutang ku ke si masitoh yang lebi
 console.log('aku sekarang begitu pusing')
 
 console.log('aku juga mau bikin sebuah project gudang menggunakan javascript')
+console.log('jadi konsep gudang ini memiliki 2 pengguna atau dua hak akses')
+
 
 function test(){
     var nilaitinggi=100;    //var a1 = document.getElementById('angka1').value;
