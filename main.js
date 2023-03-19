@@ -22,6 +22,8 @@ console.log('coba kamu sekarang bayangin aja aku cape kerja namun aku tidak bisa
 console.log('dan aku juga harus berusa bayarin hutang ku ke si masitoh yang lebih dari 20 jt')
 console.log('aku sekarang begitu pusing')
 
+console.log('aku juga mau bikin sebuah project gudang menggunakan javascript')
+
 function test(){
     var nilaitinggi=100;    //var a1 = document.getElementById('angka1').value;
    var nilai = document.getElementById('nilai').value;
