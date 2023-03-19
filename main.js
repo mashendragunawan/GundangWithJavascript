@@ -15,7 +15,7 @@ console.log('coba kamu bayangkan bagai mana rasanya kerja di saat libur namun in
 console.log('kan aku jadinya kesel iya cape iya gak dapat duit iya')
 console.log('dan aku juga bingung kenapa aku bisa terjebak situasi seperti ini')
 console.log('mau pindah ke start up tapi aku gak bisa ngoding')
-
+console.log('mau pindah ke pabrikan tapi fisik ku tidak memungkinkan')
 
 function test(){
     var nilaitinggi=100;    //var a1 = document.getElementById('angka1').value;
