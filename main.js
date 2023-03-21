@@ -31,6 +31,7 @@ console.log('bagian ini haya bisa pesan barang, Lihat Stok dan retun atau pengem
 console.log('sistem juga ada dua jenis')
 console.log('Pertama ada web yang di peruntuhkan untuk admin')
 console.log('setelah magrib balik lagi ke kerjaan')
+console.log('aku senang sekali hari ini aku bisa dengan leluasa ngoding tanpa ada telfon')
 
 
 // function test(){
