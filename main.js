@@ -32,6 +32,7 @@ console.log('sistem juga ada dua jenis')
 console.log('Pertama ada web yang di peruntuhkan untuk admin')
 console.log('setelah magrib balik lagi ke kerjaan')
 console.log('aku senang sekali hari ini aku bisa dengan leluasa ngoding tanpa ada telfon')
+console.log('hari ini juga akau akan memuali project gudang saya menggunakan javascript')
 
 
 // function test(){
