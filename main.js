@@ -37,6 +37,7 @@ consol.log('sepertinya aku juga akan membutuhkan waktu seharian penuh untuk memb
 console.log('saya sedang membuat design nya terlebih dahu agar sistem yang sata buat memiliki original yang bagus')
 console.log('seharian full itu hanya untuk halaman admin')
 consol.log('aku juga gak tahu berapa lama aku untuk mendisen untuk versi mobilenya')
+consol.log('aku sepertinya akan menggunakan database firebase')
 
 // function test(){
 //     var nilaitinggi=100;    //var a1 = document.getElementById('angka1').value;
