@@ -34,6 +34,7 @@ console.log('setelah magrib balik lagi ke kerjaan')
 console.log('aku senang sekali hari ini aku bisa dengan leluasa ngoding tanpa ada telfon')
 console.log('hari ini juga akau akan memuali project gudang saya menggunakan javascript')
 
+console.log('saya sedang membuat design nya terlebih dahu agar sistem yang sata buat memiliki original yang bagus')
 
 // function test(){
 //     var nilaitinggi=100;    //var a1 = document.getElementById('angka1').value;
