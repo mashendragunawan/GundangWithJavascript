@@ -35,6 +35,8 @@ console.log('aku senang sekali hari ini aku bisa dengan leluasa ngoding tanpa ad
 console.log('hari ini juga akau akan memuali project gudang saya menggunakan javascript')
 consol.log('sepertinya aku juga akan membutuhkan waktu seharian penuh untuk membuat konsep design')
 console.log('saya sedang membuat design nya terlebih dahu agar sistem yang sata buat memiliki original yang bagus')
+console.log('seharian full itu hanya untuk halaman admin')
+consol.log('aku juga gak tahu berapa lama aku untuk mendisen untuk versi mobilenya')
 
 // function test(){
 //     var nilaitinggi=100;    //var a1 = document.getElementById('angka1').value;
