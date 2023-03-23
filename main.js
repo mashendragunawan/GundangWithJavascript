@@ -49,6 +49,7 @@ consol.log('terawih pertama aku gak terawih')
 consol.log('kalau modem lampu indikator merah berati ada kabel yang putus')
 consol.log('kemaren tanggal 21 maret telkom di sini mati')
 consol.log('aku juga bingung kenapa bisa mati')
+console.log('mungkin cukup')
 
 
 // function test(){
