@@ -44,6 +44,7 @@ consol.log('kesalahan ku kemaren adalah tidak membuat atau menguploaD FROGRAM ke
 consol.log('sasmpe githubku kosong')
 consol.log('akujuga bingung')
 consol.log('apakah hari ini aku akan makan siang')
+consol.log('aku juga heran deh')
 
 
 // function test(){
