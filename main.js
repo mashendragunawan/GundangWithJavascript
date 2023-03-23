@@ -43,6 +43,8 @@ consol.log('100')
 consol.log('kesalahan ku kemaren adalah tidak membuat atau menguploaD FROGRAM ke github')
 consol.log('sasmpe githubku kosong')
 consol.log('akujuga bingung')
+consol.log('apakah hari ini aku akan makan siang')
+
 
 // function test(){
 //     var nilaitinggi=100;    //var a1 = document.getElementById('angka1').value;
