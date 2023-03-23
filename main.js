@@ -41,6 +41,7 @@ consol.log('aku sepertinya akan menggunakan database firebase')
 consol.log('Happy Banget Hari Ini Ya Allah')
 consol.log('100')
 consol.log('kesalahan ku kemaren adalah tidak membuat atau menguploaD FROGRAM ke github')
+consol.log('sasmpe githubku kosong')
 
 // function test(){
 //     var nilaitinggi=100;    //var a1 = document.getElementById('angka1').value;
