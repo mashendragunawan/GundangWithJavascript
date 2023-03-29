@@ -51,6 +51,8 @@ console.log('kemaren tanggal 21 maret telkom di sini mati')
 console.log('aku juga bingung kenapa bisa mati')
 console.log('mungkin cukup')
 console.log('mungkin cukup')
+console.log('mungkin cukup')
+
 
 
 
