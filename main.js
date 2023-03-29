@@ -55,6 +55,8 @@ console.log('mungkin cukup')
 console.log('mungkin cukup')
 console.log('mungkin cukup')
 console.log('mungkin cukup')
+console.log('mungkin cukup')
+
 
 
 
