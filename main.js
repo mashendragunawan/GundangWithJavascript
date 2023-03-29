@@ -52,6 +52,8 @@ console.log('aku juga bingung kenapa bisa mati')
 console.log('mungkin cukup')
 console.log('mungkin cukup')
 console.log('mungkin cukup')
+console.log('mungkin cukup')
+
 
 
 
