@@ -60,6 +60,7 @@ console.log('mungkin cukup')
 console.log('asik laptop baru mas broo')
 console.log('aku juga sangat senang dengan semua hal yang ada pada laptop saya')
 console.log('ram nya aku pesan tuh 16 GB yang datang ternyata 20 GB')
+console.log('kenapa ya tidak ada history pada github')
 
 
 
