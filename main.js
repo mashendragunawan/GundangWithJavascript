@@ -65,6 +65,7 @@ console.log('akhirnya aku pake ubuntu')
 console.log('ternyata aku berhasil guys')
 console.log('Aku Sekarang Nyoba Monitor Baru')
 console.log('aku siap aku siap')
+console.log('kenapa aku seperti ini')
 
 
 
